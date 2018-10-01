@@ -1,0 +1,25 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+
+
+.displayOptions {
+    width: 100%;
+    background: #000;
+}
+
+.displayPanel {
+background: #0066ff;
+height: 500px;
+}
+
+.display {
+    
+    background: #ddd1e7;
+    height: 500px
+}
